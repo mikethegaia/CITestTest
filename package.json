@@ -1,0 +1,22 @@
+{
+  "name": "test-test-ci",
+  "version": "1.0.0",
+  "description": "Test for testing and continuous integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikethegaia/CITestTest.git"
+  },
+  "author": "MikeTheGaia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikethegaia/CITestTest/issues"
+  },
+  "homepage": "https://github.com/mikethegaia/CITestTest#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
